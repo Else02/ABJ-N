@@ -1,0 +1,25 @@
+.form {
+    padding: 100px;
+}
+.box {
+    width: 195px;
+    height: 100px;
+    background: #FFFFFF;
+    border-radius: 11px;
+    border: 5px solid #DDDDDD;
+}
+.quest {
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 100%;
+    height: 50px;
+    font-size: 11px;
+    background: #DDDDDD;
+    padding-left: 20px;
+}
+.score {
+    padding-left: 20px;
+    font-size: 11px;
+    height: 100px;
+}
+
